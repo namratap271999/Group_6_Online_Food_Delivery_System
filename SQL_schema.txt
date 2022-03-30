@@ -1,0 +1,2 @@
+create database myfood;
+Select * from myfood.admin;
